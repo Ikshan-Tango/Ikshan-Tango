@@ -2,9 +2,6 @@
 <h3 align="center">An enthusiastic developer from India who's currently exploring new technologies.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikshan-tango&label=Profile%20views&color=0e75b6&style=flat" alt="ikshan-tango" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikshan-tango" alt="ikshan-tango" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/DFMXbwDz3MVU7vdvMcXSj88oFR_XObkyjEtNk0Snxaw/rs:fit:320:180:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvek92QktV/VUVFUmRObS9naXBo/eS5naWY.gif"/>
 
